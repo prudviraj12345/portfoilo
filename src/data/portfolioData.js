@@ -80,6 +80,26 @@ export const projects = [
   githubLink: "https://github.com/prudviraj12345/Neuro-Lung-Cancer-Detection",
   featured: true,
 },
+
+{
+  title: "Real-Time Industry Insights & Strategic Intelligence System",
+
+description:
+"It is a stock market analysis platform built using Python and the Yahoo Finance (yfinance) API to provide real-time and historical market data. The platform enables users to track stock performance, analyze market trends, visualize price movements through interactive charts, and gain valuable insights for informed investment decisions. By combining financial data analytics with an intuitive user interface, TradX simplifies market research and helps traders monitor and evaluate stocks efficiently.",
+
+image: "/tradx.png",
+
+tags: ["Python", "yfinance API", "Stock Market", "Financial Analytics", "Data Visualization", "FinTech"],
+
+category: "FinTech",
+
+liveLink: "https://trad-x.vercel.app",
+
+githubLink: "https://github.com/prudviraj12345/TradX.git",
+
+featured: true,
+
+},
  {
   title: "Dense Passage Retrieval Open-Domain Question Answering",
   description:
@@ -114,6 +134,25 @@ export const projects = [
   githubLink: "https://github.com/prudviraj12345/Multi-LLM-Collaboration-System.git",
   featured: true,
 },
+{
+ title: "Multi-Channel Auto Reply Calls Business Automation Platform",
+
+description:
+"A unified AI-powered business automation platform designed to manage customer interactions across multiple communication channels, including WhatsApp, Instagram, Facebook, Email, and Voice Calls. The system leverages Artificial Intelligence, Large Language Models, and workflow automation to provide instant responses, automate customer support, handle inquiries, schedule appointments, and streamline business communication from a centralized dashboard. It enhances customer engagement, reduces manual effort, and improves operational efficiency through intelligent multi-channel automation.",
+
+image: "/multichannelautomation.png",
+
+tags: ["Python", "AI", "LLM", "Automation", "Business Intelligence", "Customer Support"],
+
+category: "AI Business Automation",
+
+liveLink: "https://aiautomachine1.vercel.app/",
+
+githubLink: "https://github.com/prudviraj12345/Multi-Channel-Auto-Reply-Calls-Business-Automation-Platform.git",
+
+featured: true,
+},
+
   {
   title: "MoodTunes – Mood-Based Music Recommendation System",
   description:
@@ -180,6 +219,15 @@ export const certifications = [
     title: "Summer of AI Internship Swecha– VISWAM.AI",
     link: "https://drive.google.com/file/d/1pEwkzJXOl3QS5MpPMMF9a8GP_vOnDl9H/view?usp=sharing",
   },
+  {
+    title: "Infosys springboard internship certificate",
+    link: "https://drive.google.com/file/d/1Kjv-3cHMx6valjQEZpqaz9F6tFKLzh_I/view?usp=drive_link",
+  },
+ {
+    title: "GradSkills SummerShip",
+    link: "https://drive.google.com/file/d/1Jf_F6d96qraauEKT8Pi0EiZLEkZKEia8/view?usp=sharing",
+  },
+
   {
     title: "TechGyan at BITS Pilani: Generative AI & Security Workshop",
     link: "https://drive.google.com/file/d/1X8_bgNa58CLDzYPXPhvUOThkw8QXi_Ga/view?usp=sharing",
